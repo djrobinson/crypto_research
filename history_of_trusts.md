@@ -47,3 +47,13 @@ https://en.wikipedia.org/wiki/Silver_exchange-traded_product
 Future:
 
 Programmable trust
+
+Proof of Knowledge in Digital Signatures
+
+https://profs.info.uaic.ro/~siftene/Crypto.pdf
+
+https://en.wikipedia.org/wiki/Cryptographic_primitive
+
+https://blog.coinbase.com/the-emergence-of-cryptoeconomic-primitives-14ef3300cc10
+
+https://reactive.io/academy/presentations/security/cryptography/cryptography-presentation.pdf
