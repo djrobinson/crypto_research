@@ -27,7 +27,7 @@ Out of the Middle ages:
 https://en.wikipedia.org/wiki/House_of_Medici
 http://csfme.org/Traditions/the-origins-of-trusts-and-fiduciary-duties-1
 
-Early 1500s, East India Company
+East India Company
 
 http://www.chiefacoins.com/Database/Countries/East_India_Company.htm
 
