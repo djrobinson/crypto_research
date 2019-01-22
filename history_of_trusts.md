@@ -12,6 +12,10 @@ https://www.livius.org/articles/person/themistocles/
 
 https://muse.jhu.edu/article/509137/pdf
 
+Roman Fideicommissum:
+
+https://en.wikipedia.org/wiki/Fideicommissum
+
 Middle Age Trust history (Roman to British law)
 
 https://www.forbes.com/sites/jayadkisson/2015/01/26/a-short-history-of-asset-protection-trust-law/#2ec21f9d3fb4
