@@ -22,18 +22,21 @@ https://www.forbes.com/sites/jayadkisson/2015/01/26/a-short-history-of-asset-pro
 
 https://columbialawreview.org/content/the-common-law-corporation-the-power-of-the-trust-in-anglo-american-business-history/
 
+Out of the Middle ages:
+
+https://en.wikipedia.org/wiki/House_of_Medici
+http://csfme.org/Traditions/the-origins-of-trusts-and-fiduciary-duties-1
 
 Early 1500s, East India Company
 
 http://www.chiefacoins.com/Database/Countries/East_India_Company.htm
 
-Enlightenment:
-
-http://csfme.org/Traditions/the-origins-of-trusts-and-fiduciary-duties-1
-
 
 Gilded Age:
 
+Great Depression and Bucket Shops:
+
+ECNs:
 
 Modern:
 
