@@ -1,15 +1,22 @@
 # Noise
 ## A Web3.0 Wrapper for Web2.0 Information Outlets 
 
+**Networked Organization: A network composed of nodes of individuals and machines that have sufficient volume of interaction where relationships between nodes can be quantified in a meaningful way. This organization is only related in that it shares a common language and jargon but does not necessarily work towards a common goal and their outputs will be varied and sometimes loosely related.** 
+
+**Core: An approximate grouping of the nodes in an organization with the most connections.**
+**Community: Any node with an interactive (two-way) connection on the network.**
+**Outsider: Any node with that only has one-way interaction with the network.**
+**Public: The entire universe of unconnected nodes who could potentially have a one-way interaction (aka, become aware of or be impacted by) your network.**
+
 ### Abstract
 
-This is a concept for a noise elimination app for social media channels dedicated to the discussion and marketing of open source software. It would be a layer on top of Twitter (initially) and other social media outlets that would allow users to more easily determine the vested interest of each participant in social media discussion and marketing and reduce spam. Noise will work by assigning identities to participants in discussion on open channels which will allow outsiders to determine the approximate function the individual has in the organization. By creating categorizations of individuals within a project we can then create formalized governance systems around pre-existing, but informal, social systems. The resulting categorizations can be combined with staking mechanisms to create all the properties required to allow permissionless open source projects to mimic the functions of a board of directors in a publicly owned company. Nudge focuses on engaging the external stakeholders of software project in a unique way to create apparent structure so that whole network of individuals that has an interest in the project can be involved in building the direction of the project.
+This is a concept for a noise reduction platform of Web 2.0 information platform that facilitate the discussion and marketing efforts of networked organizations. It would be a layer on top of Twitter (initially) and other social media outlets that would allow users to more easily determine the vested interest of each participant in social media discussion and marketing and reduce spam. Noise will work by assigning identities to participants in discussion on open channels which will allow outsiders to determine the approximate function the individual has in the organization. By creating categorizations of individuals within a project we can then create formalized governance systems around pre-existing, but informal, social systems. The resulting categorizations can be combined with staking mechanisms to create all the properties required to allow permissionless networked organizations to mimic the functions of a board of directors in a publicly owned company. Noise focuses on engaging the external stakeholders of software project in a unique way to create apparent structure so that whole network of individuals that has an interest in the project can be involved in building the direction of the project.
 
 ### Intro
 
 _Public Perception_
 
-Most people hear of new software through Web2.0 social forums. Tools like Twitter, Github, Stackoverflow, Reddit, Discourse, Slack, Discord, and Telegram reign supreme in forming people's opinions around specific products or features. This is especially true of esoteric or brand new software projects where very few people have a working knowledge of the actual product. With the recent innovation of tying cryptocurrency valuation to the funding of open source project, the amount of noise on these social channels has become unbearable for people who are actually using and developing these projects. Discussion around price is often the dominant topic, and there is no barrier to entry into the conversation. Individuals can misrepresent their position, as we never know what interests members in the discussion maintain. Conflicts of interest are always assumed. This has led well-respected members of communities to withhold public support for fear of being misinterpreted as trying to pump a project. This means that intelligent conversation is often done behind closed doors via advisory positions, even though that discussion would be great to have on public forums for public edification. Without understanding individual's position in a project through some form of persistent identity leads to a massive public perception problem. The intentions of individuals promoting specific ideas on behalf of the project aren't easy to investigate, so to an uninformed observer of discussion all opinions are given similar amounts of consideration in the mind of the reader.
+Most people hear of new networked organizations through Web2.0 social forums. In open source software networked organizations, tools like Twitter, Github, Stackoverflow, Reddit, Discourse, Slack, Discord, and Telegram reign supreme in forming people's opinions around specific products or features. This is especially true of esoteric or brand new organization where very few people have a working knowledge of the actual product. With the recent innovation of tying cryptocurrency valuation to the funding of open source project, the amount of noise on these social channels has become unbearable for people who are actually using and developing these projects. Discussion around price is often the dominant topic, and there is no barrier to entry into the conversation. Individuals can misrepresent their position, as we never know what interests members in the discussion maintain. Conflicts of interest are always assumed. This has led well-respected members of communities to withhold public support for fear of being misinterpreted as trying to pump a project. This means that intelligent conversation is often done behind closed doors via advisory positions, even though that discussion would be great to have on public forums for public edification. Without understanding individual's position in a project through some form of persistent identity leads to a massive public perception problem. The intentions of individuals promoting specific ideas on behalf of the project aren't easy to investigate, so to an uninformed observer of discussion all opinions are given similar amounts of consideration in the mind of the reader.
 
 _Inexistence of Decentralized/Flat Organizations_
 
@@ -21,7 +28,7 @@ When a project is leaderless, schisms in belief about how the technology is best
 
 _Inability to Gain Stakeholder Consensus Roadmaps_
 
-Historically, software projects do not stick to their original roadmaps. The fact that software projects miss deadlines on or chagne their roadmap is not a worthwhile critique to address. Also, how a project
+Historically, software projects do not stick to their original roadmaps. The fact that software projects miss deadlines on or chagne their roadmap is not a worthwhile critique to address. What is more pertinent is massive deviations from the roadmap and how a community reacts to such announcements. 
 
 _Lack of Corporate Actions_
 
@@ -31,4 +38,15 @@ _Structurelessness_
 
 _Money vs Capital_
 
+Money represents demand and capital represents the supply. Money is talked about in a way. Money is noise until it is aggregated and made sense of, and in economies with a single currency the aggregate numbers of demand likely represent whole industry demand and can only signal so much information to organizations who operate 
 
+_Unutilized Web 2.0 Value Measurements_
+
+
+### Product
+
+_Noise as a Marketing Tool_
+
+_Noise as a Corporate Action Toolkit_
+
+_Noise as a Ratings Agency_
