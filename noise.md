@@ -1,11 +1,14 @@
 # Noise
 ## A Web3.0 Wrapper for Web2.0 Information Outlets 
 
-**Networked Organization: A network composed of nodes of individuals and machines that have sufficient volume of interaction where relationships between nodes can be quantified in a meaningful way. This organization is only related in that it shares a common language and jargon but does not necessarily work towards a common goal and their outputs will be varied and sometimes loosely related.** 
+**Networked Organization: A network composed of nodes of individuals and machines that have sufficient volume of interaction where relationships between nodes can be quantified in a meaningful way. This organization is only related in that it shares a common language and jargon but does not necessarily work towards a common goal and their outputs will be varied and sometimes loosely related. Networked organizations can cease to be networked organizations when interactions between certain nodes become too numerous to make meaningful judgements about, as conventional measurements of their interactions will not capture the relationships' quality.** 
 
 **Core: An approximate grouping of the nodes in an organization with the most connections.**
+
 **Community: Any node with an interactive (two-way) connection on the network.**
+
 **Outsider: Any node with that only has one-way interaction with the network.**
+
 **Public: The entire universe of unconnected nodes who could potentially have a one-way interaction (aka, become aware of or be impacted by) your network.**
 
 ### Abstract
@@ -26,11 +29,13 @@ _Unified Marketing Messages_
 
 When a project is leaderless, schisms in belief about how the technology is best applied are common. This problem is much worse when the economic factor of token appreciation or deprection is added to the equation. Without the budget for full marketing or PR departments, the marketing focus & initiatives of the project is left up to community creation and curation via social media channels & public forums. When economic incentives of the token holder community members don't align with the development goals of the project contributors the result is spammy and poor quality content being posted through these channels. The amount of content that can be posted is ultimately too vast to take the time to fully vet and endorse, so the quality of content and educational material suffers. This is disastrous for projects trying to recruit new users, as the amount of content a potential user needs to sift through to find something quality can cause the user to avoid the product altogether. 
 
-_Inability to Gain Stakeholder Consensus Roadmaps_
+_Inability to Incorporate Community Feedback into Roadmaps_
 
-Historically, software projects do not stick to their original roadmaps. The fact that software projects miss deadlines on or chagne their roadmap is not a worthwhile critique to address. What is more pertinent is massive deviations from the roadmap and how a community reacts to such announcements. 
+Historically, software projects do not stick to their original roadmaps. The fact that software projects miss deadlines on or chagne their roadmap is not a worthwhile critique to address. What is more pertinent is massive deviations from the roadmap and how a community reacts to such announcements. J
 
 _Lack of Corporate Actions_
+
+The ICO has created an interesting new vehicle for fundraising for networked organizations. Unfortunately we have yet to see it evolve beyond a single, major fundraising event due to an uncertain legal environment. Much of this hinges on the lack of an objective measurement by which a project may be assessed so it is difficult for legal institutions to make judgements about how to categorize it. Despite the best plans of project founders to avoid designing tokens that become securities, they often end up playing that role after the original business model fails. This leaves project founders to quietly pivot their business which often angers token holders. Permisionless networked organizations have an incredibly difficult time conveying what success will eventually look like, and conveying their vision of future success would look like. Along with this, major financial actions that might change the capital structure of a company to ensure continued operations are incredibly difficult to do in a decentralized way.
 
 ### Philosophy
 
