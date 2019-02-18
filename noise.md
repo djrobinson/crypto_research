@@ -47,11 +47,15 @@ Money represents demand and capital represents the supply. Money is talked about
 
 _Corporate Capture of Our Measurable Social Capital_
 
+_The Noise of the Super Rich and Super Connected_
+
+_Building the Networked Business Commons_
+
 ### Product
 
 _Noise as a Marketing Tool_
 
-_Noise as a Corporate Action Toolkit_
+_Noise as a Corporate Action Platform_
 
 _Noise as a Ratings Agency_
 
