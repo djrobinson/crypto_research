@@ -53,7 +53,7 @@ _Building the Networked Business Commons_
 
 ### Product
 
-_Noise as a Marketing Tool_
+_Noise as a Marketing Mechanism_
 
 _Noise as a Corporate Action Platform_
 
