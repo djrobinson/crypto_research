@@ -43,11 +43,15 @@ The ICO has created an interesting new vehicle for fundraising for networked org
 
 _Structurelessness_
 
+There is always a structure that can be found within a networked organization. It is more often that a group chooses not to take the appropriate measurements to codify such a structure. It is also true that codifying certain measturements are not in the best interest of the organization. There is structure in all networks of people and machines no matter how informal. 
+
 _Money vs Capital_
 
 Money represents demand and capital represents the supply. Money is talked about in a way. Money is noise until it is aggregated and made sense of, and in economies with a single currency the aggregate numbers of demand likely represent whole industry demand and can only signal so much information to organizations who operate 
 
 _Corporate Capture of Our Measurable Social Capital_
+
+
 
 _The Noise of the Super Rich and Super Connected_
 
@@ -55,11 +59,13 @@ _Building the Networked Business Commons_
 
 ### Product
 
+_Noise as a Networked Organization Identity_
+
 _Noise as a Marketing Mechanism_
 
 _Noise as a Corporate Action Platform_
 
-_Noise as a Ratings Agency_
+_Noise as a Ratings Agency and Network Data Producer_
 
 ### System Design
 
