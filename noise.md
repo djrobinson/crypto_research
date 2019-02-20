@@ -1,5 +1,5 @@
 # Noise
-## A concept for building trust within networked organizations
+## An Idea for Building Trust within Networked Organizations
 
 **Networked Organization:** A network composed of nodes of individuals and machines that have sufficient volume of interaction where relationships between nodes can be quantified in a meaningful way. This organization is only related in that it shares a common language and jargon but does not necessarily work towards a common goal and their outputs will be varied and sometimes loosely related. Networked organizations can cease to be networked organizations when interactions between certain nodes become too numerous to make meaningful judgements about, as conventional measurements of their interactions will not capture the relationship's quality. 
 
@@ -51,7 +51,7 @@ Money represents demand and capital represents the supply. Money is talked about
 
 _Corporate Capture of Our Measurable Social Capital_
 
-Capital has the potential to form the future. Whether or not it will do it correctly is difficult to say, 
+Capital has the potential to form the future. Whether or not those with capital will do it correctly is difficult to say, and is too subjective and based on context to ever make blanket generalizations whether or not those with Capital make the correct decision.  
 
 _The Noise of the Super Rich and Super Connected_
 
@@ -71,4 +71,15 @@ _Noise as a Ratings Agency_
 
 ### System Design
 
+- Ability to group together different accounts and using some type of TCR, associate each account together
+- Ability for individuals to claim groupings of accounts by on chain verification or claims (attestations) via social channels, which overrides groupings made by TCRs
+- Allow users to collect tokens based on verified and claimed account statistics
+- Verified and claimed accounts will be able to display their account via social channels to allow outsiders to immediately verify their identity and gain an understanding of the node's position in the network
+- Examples of methods for verifying accounts include: a tweet containing a temporary, permissioned code (thing google 2fa) claiming association w/ the account, a 0 value transaction on Ethereum with a temp hash in the metadata to claim a wallet, proof of transactions from mining pools to prove mining status, adding a hash to a github commit to prove it is your account  
+- With this identity, individuals will be able to vote on proposed categorizations for how things are discussed within the networked organization (Vote on Values)
+- Tokens will be categorized under account type and can be staked to increase the probability of future action within a given categorization (Bet on Beliefs)
+- Example 1: Coordinated & measurable marketing action via social media channels, where major influencers are able to stake their tokens to specific marketing messages
+- Another example would be coordinated action around a specific improvement proposal (think similar EIPs fighting to become the standard for a specific), and promising some type of punishment if one doesn't go through (a sale of the coin for a competitor, for example)
+- Another example would be coordinating large-scale financial operations in a collective way by issuing quarterly tokens that can be used to vote on corporate actions such as coin-buybacks and restructuring their balance sheet
+- Votes will all be measured by QV
 
