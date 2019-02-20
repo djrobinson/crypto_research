@@ -1,5 +1,5 @@
 # Noise
-## A Web3.0 Wrapper for Web2.0 Information Outlets 
+## A concept for building trust within networked organizations
 
 **Networked Organization:** A network composed of nodes of individuals and machines that have sufficient volume of interaction where relationships between nodes can be quantified in a meaningful way. This organization is only related in that it shares a common language and jargon but does not necessarily work towards a common goal and their outputs will be varied and sometimes loosely related. Networked organizations can cease to be networked organizations when interactions between certain nodes become too numerous to make meaningful judgements about, as conventional measurements of their interactions will not capture the relationship's quality. 
 
@@ -19,7 +19,7 @@ This is a concept for a noise reduction platform of Web 2.0 information platform
 
 Over the past few years we have seen the introduction of enormous and valuable network organizations that anyone can take part of and have no familiar structure to the corporate structures we know from the past 300 years. The most noteworthy category that is pushing forward this type of alternative organizational structure is the blockchain related open source projects that are funded by some type of token sale. In the last year the subject of how to govern these organizations, who strive for a more decentralized and "fair" structure than their predecessors have run into age-old coordination issues that have plagued all organizations, but they lack the battle-tested tools utilized by the leaders of traditional centralized organizations to overcome the problems. While there are many theories about how to better coordinate projects without central control, in practice there is no social infrastructure to appropriately engage and inform community stakeholders. This leads to cryptoprojects resorting back to traditional centralized styles of management driven by some source of capital or risk being overrun by and argumentative community that eventually creates a schism in the network with all people working towards a different ideas. Below is an analysis of specific problems that the blockchain network organizations are facing:
 
-_Ignorance of Heirarchy and Authority_
+_Ignorance of Heirarchy and Bias_
 
 There is no such thing as pure decentralization. Operating in a truly "open environment" is impossible in practice when as there must be varying levels of permissions and authority to get anything done. The most obvious of these is the concept of a Benevolent Dictator for Life who maintains some special priviledge, such as merge permissions on a project, which assumes some final say in issues.  Sometimes the secrecy and efficiency of in-person closed-door interaction is still required due to the unexpected nature of any organization. There are times that special-purpose work groups are neccessary. All self-proclaimed "decentralized" or "open" projects will still have some element of closed & centralized work that would destroy the project if it were ever made public. Also, as anyone who has worked on a software project knows, private conversation is often the best way to vet bad ideas before they become broadly communicated. Temporary hierarchies and methods of determining relative legitimacy of actors are critical for simply getting things done. These relative measures of legitimacy, no matter how approximate, are beneficial to establish so that the community might be informed about who to go to for certain inquiries. An individual's position in the project is good to establish for outsiders to quickly assess the lay of the land when coming into a new network.
 
@@ -51,7 +51,7 @@ Money represents demand and capital represents the supply. Money is talked about
 
 _Corporate Capture of Our Measurable Social Capital_
 
-
+Capital has the potential to form the future. Whether or not it will do it correctly is difficult to say, 
 
 _The Noise of the Super Rich and Super Connected_
 
@@ -65,7 +65,9 @@ _Noise as a Marketing Mechanism_
 
 _Noise as a Corporate Action Platform_
 
-_Noise as a Ratings Agency and Network Data Producer_
+_Noise as a Network Analysis Tool_
+
+_Noise as a Ratings Agency_
 
 ### System Design
 
